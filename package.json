@@ -1,0 +1,64 @@
+{
+  "name": "use-controlled-input-number",
+  "version": "1.0.0",
+  "description": "React hook to control input[type=number] fields with ease",
+  "author": "David Asensio Cañas <david.asensio@icloud.com>",
+  "homepage": "https://github.com/d-asensio/use-controlled-input-number#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d-asensio/use-controlled-input-number"
+  },
+  "bugs": {
+    "url": "https://github.com/d-asensio/use-controlled-input-number/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "hook",
+    "handle",
+    "controlled",
+    "input",
+    "field",
+    "type",
+    "number"
+  ],
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6"
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/use-controlled-input-number.cjs.js",
+  "module": "dist/use-controlled-input-number.esm.js",
+  "scripts": {
+    "build": "kcd-scripts build --bundle",
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "test": "kcd-scripts test --coverage --verbose",
+    "test:watch": "yarn test --watch"
+  },
+  "standard": {
+    "env": [
+      "jest",
+      "browser"
+    ]
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.10.5"
+  },
+  "peerDependencies": {
+    "react": ">=16.12"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.10.4",
+    "@testing-library/react-hooks": "^3.2.1",
+    "kcd-scripts": "^6.2.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-test-renderer": "^16.13.1",
+    "standard": "14.x.x"
+  }
+}

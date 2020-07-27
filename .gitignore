@@ -1,0 +1,15 @@
+# SO files
+.DS_Store
+
+# Common IDE files
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Report and error files
+*.log
+coverage/
+
+# Generated artifacts
+dist/
