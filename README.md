@@ -3,6 +3,8 @@
 
 *React hook to turn numeric input behavior into pretty much what you expect*
 
+[![npm version](https://badge.fury.io/js/use-controlled-input-number.svg)](https://badge.fury.io/js/use-controlled-input-number)
+
 While it is not obvious at first glance, numeric inputs are not simple. Especially if you want to use the value that is typed in to calculate something, since **they return a string instead of a number**.
 
 This hook is intended to solve this problem in the easiest possible way, giving you all the control over the input, but making it behave as you would expect (always returning a number).
