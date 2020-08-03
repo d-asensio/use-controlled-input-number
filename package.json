@@ -1,7 +1,7 @@
 {
   "name": "use-controlled-input-number",
   "version": "1.0.0",
-  "description": "React hook to control input[type=number] fields with ease",
+  "description": "React hook to turn numeric input behavior into pretty much what you expect",
   "author": "David Asensio Cañas <david.asensio@icloud.com>",
   "homepage": "https://github.com/d-asensio/use-controlled-input-number#readme",
   "repository": {
