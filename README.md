@@ -57,5 +57,5 @@ function ControlledInput () {
 
 ## Related projects
 
-- [use_stepper](https://github.com/wKovacs64/use-stepper): If you want a hook that fully control the behavior of the input.
+- [use_stepper](https://github.com/wKovacs64/use-stepper): If you want a hook that fully controls the behavior of the input.
 
