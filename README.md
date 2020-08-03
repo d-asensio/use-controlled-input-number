@@ -7,10 +7,26 @@ While it is not obvious at first glance, numeric inputs are not simple. Especial
 
 This hook is intended to solve this problem in the easiest possible way, giving you all the control over the input, but making it behave as you would expect (always returning a number).
 
-<p align="center">
-![example without hook](assets/example-without-hook.gif)
-![example with hook](assets/example-with-hook.gif)
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td>
+          <img
+            alt="Example without hook"
+            src="assets/example-without-hook.gif"
+          />
+        </td>
+        <td>
+          <img
+            alt="Example with hook"
+            src="assets/example-with-hook.gif"
+          />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 > You can find these examples in [codesandbox](https://codesandbox.io/s/example-1-d0fny?file=/src/App.js)
 
