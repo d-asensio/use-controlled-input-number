@@ -51,14 +51,14 @@
     "react": ">=16.12"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.5",
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.10.4",
-    "@testing-library/react-hooks": "^3.2.1",
-    "kcd-scripts": "^6.2.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-test-renderer": "^16.13.1",
-    "standard": "14.x.x"
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4",
+    "@testing-library/react-hooks": "3.4.1",
+    "kcd-scripts": "6.2.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-test-renderer": "16.13.1",
+    "standard": "14.3.4"
   }
 }
